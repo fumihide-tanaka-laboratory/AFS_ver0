@@ -51,7 +51,7 @@ Simply clone and build the repository as follows:
 ```bash
 # Clone the repository to your home directory
 cd ~
-git clone https://github.com/robotaichi/rfs.git afs
+git clone https://github.com/fumihide-tanaka-laboratory/AFS_ver0.git afs
 cd afs
 
 # Build the workspace

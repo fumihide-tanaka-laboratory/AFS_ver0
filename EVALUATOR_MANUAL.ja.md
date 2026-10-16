@@ -43,7 +43,7 @@
 
 **1. GitHubリポジトリ（評価アプリ込み）をPCにダウンロードする（Windowsの場合、ターミナルの今いる場所（ディレクトリ）は「C:\Users\ユーザ名」になっている）**
 ```bash
-git clone https://github.com/robotaichi/rfs.git afs
+git clone https://github.com/fumihide-tanaka-laboratory/AFS_ver0.git afs
 ```
 ※ 「`'git' は、内部コマンドまたは外部コマンド...として認識されていません`」といったエラーが出た場合は、今開いたターミナルを閉じてください（閉じないと次に行うインストール後の設定が反映されないため）。閉じた後に「Git for Windows」をhttps://gitforwindows.org/ からインストールしてください。これはWindowsでgitコマンドを扱えるようにするものです。インストール後にターミナルを起動し、再度上記のgit cloneコマンドを実行してください。
 

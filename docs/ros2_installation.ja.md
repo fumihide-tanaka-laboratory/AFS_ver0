@@ -51,7 +51,7 @@ rosdep update
 ```bash
 # ホームディレクトリにリポジトリをクローン
 cd ~
-git clone https://github.com/robotaichi/rfs.git afs
+git clone https://github.com/fumihide-tanaka-laboratory/AFS_ver0.git afs
 cd afs
 
 # ワークスペースをビルド
