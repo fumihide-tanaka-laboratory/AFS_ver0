@@ -179,7 +179,7 @@ pip install openai google-genai numpy sounddevice webrtcvad matplotlib toio-py P
 
 **2. セットアップ**
 ```bash
-git clone https://github.com/robotaichi/rfs.git afs
+git clone https://github.com/fumihide-tanaka-laboratory/AFS_ver0.git afs
 cd afs
 
 # APIキーを設定
